@@ -9,6 +9,9 @@ Raphaël GRANDIN<sup>1</sup> and Arthur DELORME<sup>2</sup>
 
 2: Université de Paris, Institut de Physique du Globe de Paris. Email: delorme@ipgp.fr
 
+
+![alt text](https://github.com/RaphaelGrandin/SaintVincent_DEM_Pleiades_Copernicus/Figures/SaintVincent_Pleiades_Copernicus_IPGP_2021_V4.0.jpg?raw=true)
+
 # 1. Collection Overview
 
 This collection contains a digital surface model of the Soufrière volcano (Saint Vincent) calculated from Pleiades images acquired in 2014. Areas masked by clouds were filled using the Copernicus digital elevation model. The Pleiades dataset consists in three images acquired in 2014:
