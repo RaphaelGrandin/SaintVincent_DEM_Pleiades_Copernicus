@@ -3,6 +3,8 @@ Fusion of Pleiades (2014, 2 m) and Copernicus (2018, 30 m)<br/>
 digital elevation models<a name="TOP"></a>
 ===========================
 
+[![DOI](https://zenodo.org/badge/355461548.svg)](https://zenodo.org/badge/latestdoi/355461548)
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by-nc/4.0/
@@ -73,7 +75,10 @@ Attribution required for copies and derivative works:
  
 ## 4. Dataset Citation
 
-Grandin and Delorme (2021). “La Soufrière volcano (Saint Vincent) – Fusion of Pleiades (2014, 2 m) and Coperni- cus (2018, 30 m) digital elevation models”. Dataset distributed on Zenodo. https://doi.org/10.5281/zenodo.4660179.
+Grandin and Delorme (2021). “La Soufrière volcano (Saint Vincent) – Fusion of Pleiades (2014, 2 m) and Coperni- cus (2018, 30 m) digital elevation models”.
+
+Dataset distributed on Zenodo: <a href="https://doi.org/10.5281/zenodo.4668734"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4668734.svg" alt="DOI"></a>
+
 
 ```
 @misc{grandindelorme2021,
@@ -81,7 +86,7 @@ title={{La Soufriere volcano (Saint Vincent) -- Fusion of Pleiades (2014, 2 m) a
 (2018, 30 m) digital elevation models}}, 
 author={Grandin, Raphael and Delorme, Arthur},
 year={2021},
-howpublished={Dataset on Zenodo}, doi={10.5281/zenodo.4660179}
+howpublished={Dataset on Zenodo}, doi={10.5281/zenodo.4668734}
 }
 ```
 
