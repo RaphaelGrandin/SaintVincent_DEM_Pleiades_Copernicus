@@ -27,9 +27,9 @@ This collection contains a digital surface model  (DSM) of the Soufrière volcan
 
 The Pleiades dataset consists in three images acquired in 2014:
 
-    * image A = `DS_PHR1A_201407041445368_FR1_PX_W062N13_1009_00974`
-    * image B = `DS_PHR1A_201409271441564_FR1_PX_W062N13_1009_00974`
-    * image C = `DS_PHR1A_201410161445303_SE1_PX_W062N13_1009_00974`
+* image A = `DS_PHR1A_201407041445368_FR1_PX_W062N13_1009_00974`
+* image B = `DS_PHR1A_201409271441564_FR1_PX_W062N13_1009_00974`
+* image C = `DS_PHR1A_201410161445303_SE1_PX_W062N13_1009_00974`
 
 By combining these three images, three different digital surface models (DSMs) were computed (AB, BC and ABC). The three Pleiades DSMs were then merged together, taking advantage of the different cloud cover in the three pairs / triplets. Areas that are not visible in any of the three DSMs due to clouds are subsequently filled with the Copernicus DEM.
 
