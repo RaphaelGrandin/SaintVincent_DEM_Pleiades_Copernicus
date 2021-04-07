@@ -1,6 +1,7 @@
 La Soufrière volcano (Saint Vincent) <br/>
 Fusion of Pleiades (2014, 2 m) and Copernicus (2018, 30 m)<br/>
 digital elevation models<a name="TOP"></a>
+===========================
 
 ## Authors
 
