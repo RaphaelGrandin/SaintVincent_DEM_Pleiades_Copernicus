@@ -3,6 +3,12 @@ Fusion of Pleiades (2014, 2 m) and Copernicus (2018, 30 m)<br/>
 digital elevation models<a name="TOP"></a>
 ===========================
 
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%20NC%204.0-lightgrey.svg
+
 ## Authors
 
 Raphaël GRANDIN<sup>1</sup> and Arthur DELORME<sup>2</sup>
@@ -56,8 +62,9 @@ Calculation of the Pleiades DSM used the S-CAPAD cluster of IPGP.
 
 ## 3. Dataset Attribution
 
-Dataset released under Creative Commons CC BY-NC 4.0 (Attribution-NonCommercial 4.0 International):
-https://creativecommons.org/licenses/by-nc/4.0/
+This dataset is licensed under a [Creative Commons CC BY-NC 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (Attribution-NonCommercial).
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 
 Attribution required for copies and derivative works:
 
